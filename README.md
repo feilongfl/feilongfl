@@ -11,6 +11,8 @@ I'm an embedded software engineer in China.
 - 📫 How to reach me:
     - feilongphone@gmail.com
 
+[![FeiLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=feilongfl)](https://github.com/feilongfl/feilongfl)
+
 <!--START_SECTION:waka-->
 
 ```text
