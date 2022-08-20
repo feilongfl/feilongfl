@@ -6,7 +6,7 @@ I'm an embedded software engineer in China.
     - chisel
     - zephyr
 
-- 🔭 I’m currently working on CMS (side mirror of vehicle)
+- 🔭 I’m currently working on CMS (camera based side mirror of vehicle)
 
 - 📫 How to reach me:
     - feilongphone@gmail.com
