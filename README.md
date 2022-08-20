@@ -10,6 +10,7 @@ I'm an embedded software engineer in China.
 
 - 📫 How to reach me:
     - feilongphone@gmail.com
+    - You can contact me in English / Japanese / Chinese.
 
 [![FeiLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=feilongfl)](https://github.com/feilongfl/feilongfl)
 
