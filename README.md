@@ -3,9 +3,8 @@
 I'm an embedded software engineer in China.
 
 - 🌱 I’m currently learning:
-    - [chisel](https://www.chisel-lang.org/)
+    - [Chisel](https://www.chisel-lang.org/) with [GOWIN](http://www.gowinsemi.com.cn/) FPGA
     - [zephyr RTOS](https://zephyrproject.org/)
-    - [GOWIN FPGA](http://www.gowinsemi.com.cn/)
     - try to make above work together: [feilongfl/chisel_gowin_mcu](https://github.com/feilongfl/chisel_gowin_mcu):
         - use chisel to design CPU and peripherals, and generate devicetree to zephyr RTOS.
         - similar to xilinx [petalinux](https://www.xilinx.com/products/design-tools/embedded-software/petalinux-sdk.html)
